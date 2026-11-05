@@ -1,0 +1,1 @@
+print("Aku cinta kamu")
